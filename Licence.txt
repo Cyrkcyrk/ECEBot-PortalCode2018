@@ -1,0 +1,58 @@
+Sujet DS2 Allegro et Architecture des ordinateurs 2017 – campus.ece.fr  L’idée pour détecter le clic de souris
+
+http://www.ece.fr/~fercoq/allegro/ - Formules de projections isométriques
+
+http://codeanalysis.fr/webservice/ - Graphe d’appel
+
+http://liballeg.org – Pour comprendre comment certain(es) programmes et procédures d’allegro fonctionnaient
+https://www.allegro.cc/ - Idem
+
+-----------------------------------------------------------
+	Graphismes en tous genre, modifié par nos soins:
+
+	Graphisme de la map
+https://www.behance.net/gallery/41163917/Portal-Isometric-Map
+https://www.3dcadbrowser.com/download.aspx?3dmodel=92866
+https://zeptozephyr.deviantart.com/art/Vectored-Portal-Icons-207347804
+https://img00.deviantart.net/3a57/i/2011/119/2/e/aperture_laboratories_dark_by_atzepeng-d3f5h1r.png
+
+	Graphiseme du menu de selection de niveau:
+https://www.pinterest.fr/pin/308215168219306392/
+http://picsdoc.blogspot.fr/2014/08/flash-games-that-doesnt-suck.html
+
+	Graphisme du menu d'accueil:
+http://www.gizmodo.co.uk/2015/06/the-portal-gameplay-in-lego-dimensions-has-those-mind-melting-puzzles/
+https://www.ps4source.de/lego-dimensions-hauptspiel-bietet-14-einzigartige-levels/
+http://helijah.free.fr/glass_shader.png
+
+	Graphisme des règles:
+http://windows7themer.com/the-portal-2-rainmeter-theme/
+https://themackenzie.deviantart.com/art/PORTAL-2-Black-floor-panel-Wall-panel-303569100
+http://half-life.wikia.com/wiki/File:Cave_johnson_70s.png
+http://half-life.wikia.com/wiki/File:Cave_johnson_70s.png
+
+-----------------------------------------------------
+
+	Audio récupéré des jeux Portal et Portal 2:
+http://www.valvesoftware.com/games/portal.html
+http://www.valvesoftware.com/games/portal2.html
+
+Son de frottement: 		https://www.youtube.com/watch?v=VxRUloDDTKE
+Tir des tourelles: 		https://www.youtube.com/watch?v=39RPkR1InRo
+Ouverture porte  : 		https://www.youtube.com/watch?v=dNfpN7a5YAk
+Voix robotique (une partie): 	https://www.youtube.com/watch?v=2pByCegIjpU
+Musique de fond:		idem ---
+Buzzer: 			https://www.youtube.com/watch?v=S-9-49rM8yM
+Bouton:				https://www.youtube.com/watch?v=VbZs_umzQvE
+Bruits de pas:			https://www.youtube.com/watch?v=5UY7ys49W5I
+
+-------------------------------------------------------
+
+Le reste est est propriété intellectuelle de
+
+© 2018 - Tous droits réservés
+KASYC Cyrille
+NICOT Mikaël
+RASSOUW Clément
+
+Le code de ce projet ECEBot - Portal Code est mis à disposition selon les termes de la licence Creative Commons Attribution - Utilisation non commerciale - Partage dans les mêmes conditions 4.0 International

@@ -1,0 +1,10 @@
+//Permet d'ajouter une icone à l'executable
+//https://www.youtube.com/watch?v=La-AyEqlUik
+
+
+#ifndef _resources_rc
+#define _resource_rc
+
+MAINICON ICON "ressources/portal.ico"
+
+#endif

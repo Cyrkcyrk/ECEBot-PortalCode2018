@@ -1,0 +1,17 @@
+EULA=false
+
+© 2018 - Tous droits réservés
+KASYC Cyrille
+NICOT Mikaël
+RASSOUW Clément
+Réalisé dans le cadre scolaire du projet ING1-ECEBot 2018 de l'ECE Paris.
+
+
+Le code uniquement de ce projet ECEBot - Portal Code est mis à disposition selon les termes de la licence Creative Commons Attribution - Utilisation non commerciale - Partage dans les mêmes conditions 4.0 International
+
+Pour les droits graphiques et sonnores, consultez le fichier "licence.txt" présent dans ce même dossier. Nous ne sommes pas propriétaires de ces fichiers, vous êtes donc responsable de leurs partage et utilisation.
+
+
+En modifiant ce fichier de conditions d'utilisations et de partages, vous vous engagez à respecter les conditions fixées ci-dessus.
+Pour accepter les présente condition, veuillez modifier la premiere ligne de ce fichier par la ligne suivante:
+EULA=false
